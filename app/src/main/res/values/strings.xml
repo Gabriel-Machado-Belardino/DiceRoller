@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula_04_project</string>
+    <string name="roll">Roll</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="imagem">Imagem</string>
+</resources>
